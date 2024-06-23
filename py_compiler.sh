@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 read -rp "请输入python版本(例如python3.10):" pyversion &&
     read -rp "请输入输出文件名:" outfile &&
